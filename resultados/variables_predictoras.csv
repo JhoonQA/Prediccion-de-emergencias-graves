@@ -1,0 +1,20 @@
+﻿Variable,Columna
+Peligro,PELIGRO_COD
+Grupo de peligro,GRUPO_PELIGRO_COD
+Origen (natural/humano),TIPO DE PELIGRO_COD
+Región natural,REGION_COD
+Departamento,DEPARTAMENTO_COD
+Código UBIGEO (ubicación),UBIGEO_NUM
+Mes,MES_NUM
+Mes (seno),MES_SIN
+Mes (coseno),MES_COS
+Temporada de lluvias,TEMPORADA_LLUVIAS
+Tasa hist. gravedad distrito,DIST_TASA_GRAVE
+N° hist. emergencias distrito,DIST_N_PREV
+Tasa gravedad distrito (año previo),DIST_TASA_ULT_ANIO
+Tasa hist. gravedad provincia,PROV_TASA_GRAVE
+Tasa gravedad provincia (año previo),PROV_TASA_ULT_ANIO
+Tasa hist. gravedad del peligro en distrito,DISTPEL_TASA_GRAVE
+N° hist. mismo peligro en distrito,DISTPEL_N_PREV
+Emergencias en el dpto. (7 días),DEP_EMERG_7D
+Emergencias en el distrito (30 días),DIST_EMERG_30D

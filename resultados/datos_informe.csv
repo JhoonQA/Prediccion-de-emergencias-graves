@@ -1,0 +1,20 @@
+﻿clave,valor
+n_total,151491
+n_estudio,66858
+pct_grave,40.1 %
+n_features,19
+n_2021,7799
+n_2025,16401
+n_peligros,19
+n_peligros_orig,58
+pct_min_21_25,32.7 %
+pct_max_21_25,37.7 %
+pct_2026,69.0 %
+vd_2025,37.2 %
+vd_2026,63.5 %
+n_lluvia,26506
+pct_incendio,76 %
+oob_1,0.305
+oob_500,0.214
+oob_100,0.215
+n_distritos,1878

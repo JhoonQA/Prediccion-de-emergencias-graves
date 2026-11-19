@@ -1,0 +1,5 @@
+﻿Modelo,Mejores hiperparámetros
+Árbol de Decisión,"{'min_samples_leaf': 20, 'max_depth': None, 'criterion': 'entropy'}"
+Random Forest,"{'n_estimators': 300, 'min_samples_leaf': 3, 'max_features': 'sqrt', 'max_depth': None, 'criterion': 'gini'}"
+XGBoost,"{'subsample': 0.8, 'n_estimators': 800, 'min_child_weight': 5, 'max_depth': 8, 'learning_rate': 0.05, 'colsample_bytree': 0.9}"
+LightGBM,"{'subsample_freq': 1, 'subsample': 1.0, 'num_leaves': 63, 'n_estimators': 800, 'min_child_samples': 50, 'learning_rate': 0.05, 'colsample_bytree': 1.0}"
